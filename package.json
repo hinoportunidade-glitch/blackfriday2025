@@ -1,0 +1,13 @@
+{
+  "name": "blackfriday-bot",
+  "version": "1.0.0",
+  "main": "scraper.py",
+  "scripts": {
+    "start": "python scraper.py"
+  },
+  "dependencies": {
+    "playwright": "^1.48.0",
+    "python-dotenv": "^1.0.1",
+    "twilio": "^5.0.0"
+  }
+}
