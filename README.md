@@ -1,0 +1,2 @@
+# blackfriday2025
+ALERTA DE PREÇOS PRODUTOS BF25
